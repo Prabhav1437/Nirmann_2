@@ -10,7 +10,7 @@ The website showcases iconic Marvel characters, epic movies, and engages users w
   - Hero welcome section with Marvel intro GIF.
   - Quick Links to Characters and Movies sections.
   - Glassmorphic design for immersive visuals.
-
+  - Background made using Canva - (https://www.canva.com/design/DAGzgy2HUOs/5V6uxPAaNIg2Bmj3gEIYCA/edit?utm_content=DAGzgy2HUOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Characters Page**
   - Character cards with images, names, and short descriptions.
   - Hover effects to make browsing interactive.
@@ -31,3 +31,4 @@ The website showcases iconic Marvel characters, epic movies, and engages users w
 ## Technologies Used
 - HTML5
 - CSS3 
+- Canva
